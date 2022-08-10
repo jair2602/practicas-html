@@ -25,7 +25,7 @@
 }
 
 .profile-btn {
-  background-color: red;
+  background-color: var(--primary-color);
   color: var(--text-color-inverse);
   border: none;
   font-size: 20px;
